@@ -51,6 +51,13 @@ amazon-clone/
 * Improved Product Cards
 * Enhanced User Experience
 
+## Purpose
+This project was created for learning and practicing front-end web development concepts using HTML and CSS.
+
+## Disclaimer
+This is an educational project created for learning purposes only.
+It is not affiliated with, endorsed by, or connected to Amazon in any way.
+
 ## Live Demo
 
 https://kanak-tech.github.io/Amazon-clone/
